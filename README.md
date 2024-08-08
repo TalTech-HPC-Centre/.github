@@ -1,1 +1,1 @@
-# .github
+# Special repo for organization README
